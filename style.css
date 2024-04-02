@@ -1,0 +1,12 @@
+body{
+    font-family: 'Times New Roman', Times, serif;
+    background-color: rgb(64, 209, 20);
+    color:rgb(0, 0, 0);
+    justify-content: left; 
+    font-size: larger;
+    align-items: center;
+
+}
+.imagem-principal{
+    width: 20%;
+}
