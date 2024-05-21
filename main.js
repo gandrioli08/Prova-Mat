@@ -1,6 +1,6 @@
 const botoes = document.querySelectorAll(".botoes");
 console.log(botoes);
 
-for(let 1 =0; i<botoes.length, 1++){
+for(let i =0; i<botoes.length; i++){
 console.log(1);
 }
