@@ -1,6 +1,6 @@
 body{
-    background-color: #1E1E1E;
-    color:#FFFF; 
+    background-color: #000000;
+    color:#ffff; 
     font-family: 'Times New Roman';
 }
 .conteudo-principal { 
@@ -16,11 +16,12 @@ body{
     text-align: left;
     width: 100%;
     font-size: 32px;
+    text-align: center;
 }
 .botao { 
     font-family: 'Times New Roman', Times, serif;
-    background-color: green;
-    color: yellow; 
+    background-color: #8f55ec;
+    color: rgb(93, 228, 252); 
     display: flex;
     justify-content: center;
     padding: 1em;
@@ -50,4 +51,8 @@ body{
         border-radius: 0 40px 0 0;
     
 }
+}
+.imagem{ 
+width: 30px;
+
 }
